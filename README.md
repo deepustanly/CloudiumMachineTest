@@ -8,9 +8,9 @@ NY Times is a popular articles listing App, List based on most popular artical i
 
 ## Features
 
-- See article brife in list page 
+- See article title and thumbnail in Home page 
+- When click on cell the app show article detailed page  
 - Following MVVM programming structure
-- 
 - Export documents as Markdown, HTML and PDF
 
 Build a simple app to hit the NY Times Most Popular Articles API and show a list of articles, that shows details when items on the list are tapped
